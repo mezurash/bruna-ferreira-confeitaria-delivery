@@ -1,0 +1,56 @@
+[
+  {
+    "id": "leite-condensado",
+    "name": "Bolo Pudim de Leite Condensado Moça",
+    "tag": "clássico cremoso",
+    "emoji": "🍮",
+    "price": 30,
+    "desc": "Fatia alta, cremosa e dourada, com aquela calda de pudim que entrega conforto de sobremesa de domingo.",
+    "why": "Para quem quer o sabor mais seguro, macio e irresistível do cardápio."
+  },
+  {
+    "id": "brigadeiro-trufado",
+    "name": "Bolo Pudim de Brigadeiro Trufado",
+    "tag": "chocolate intenso",
+    "emoji": "🍫",
+    "price": 30,
+    "desc": "Massa fofinha com cobertura trufada e brigadeiro generoso. Doce na medida para matar vontade de chocolate de verdade.",
+    "why": "A escolha de quem abre o WhatsApp já pensando: hoje eu mereço."
+  },
+  {
+    "id": "ninho-morango",
+    "name": "Bolo Pudim de Ninho com Morango",
+    "tag": "leve e frutado",
+    "emoji": "🍓",
+    "price": 30,
+    "desc": "Creme de Ninho, morangos e textura geladinha. Uma fatia delicada, bonita e perfeita para presentear ou dividir.",
+    "why": "Para quem ama sobremesa doce, mas com frescor."
+  },
+  {
+    "id": "matilda-cake",
+    "name": "Matilda Cake",
+    "tag": "chocolate de cinema",
+    "emoji": "🍰",
+    "price": 30,
+    "desc": "Camadas úmidas de chocolate, recheio marcante e cobertura cremosa. Uma fatia para comer devagar.",
+    "why": "O clássico “só uma garfada” que vira a fatia inteira."
+  },
+  {
+    "id": "ferrero-rocher",
+    "name": "Ferrero Rocher",
+    "tag": "novidade da semana",
+    "emoji": "🌰",
+    "price": 30,
+    "desc": "Chocolate, creme e crocância de avelã em uma fatia com cara de sobremesa premium.",
+    "why": "Para quem quer impressionar no café da tarde ou fechar o sábado com luxo."
+  },
+  {
+    "id": "kinder-bueno",
+    "name": "Kinder Bueno",
+    "tag": "novidade da semana",
+    "emoji": "🍫",
+    "price": 30,
+    "desc": "Camadas cremosas, chocolate e aquele sabor de Kinder que agrada criança, adulto e visita inesperada.",
+    "why": "A fatia mais “quero outra” do cardápio."
+  }
+]
