@@ -33,3 +33,11 @@ Boutique pâtisserie + marketplace limpo. Menos flyer, mais cardápio premium co
 3. Nada de emojis na interface principal; visual deve vir de tipografia, espaçamento e fotos.
 4. Radius alto e sombra suave para sensação de vitrine premium.
 5. Mobile first: CTA com alvo mínimo de 44px.
+
+
+## Refinamentos finais
+- Favicon SVG com ícone de bolo em `assets/favicon.svg` para substituir o ícone genérico da aba.
+- H1 reduzido em 4px no limite mínimo/máximo e com peso mais leve (`760`) para ficar mais elegante.
+- Motion system: entrada suave por blocos, shimmer discreto em CTAs, hover tátil nos cards e badges com respiração leve.
+- Cursor customizado: fatia de bolo no estado normal e cupcake em elementos clicáveis, com fallback nativo.
+- Todas as animações respeitam `prefers-reduced-motion`.
