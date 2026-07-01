@@ -6,7 +6,8 @@ Boutique pâtisserie + marketplace limpo. Menos flyer, mais cardápio premium co
 ## Tokens
 
 ### Tipografia
-- Display: `Fraunces` — títulos editoriais, confeitaria artesanal, sensação premium.
+- Hero H1: `NY Small Pro` / `New York Small` / `New York` — serif Apple-like, mais editorial e premium.
+- Display: `Fraunces` — títulos editoriais secundários, confeitaria artesanal, sensação premium.
 - UI/body: `DM Sans` — leitura rápida, botões, cards e checkout por WhatsApp.
 
 ### Cores
@@ -37,7 +38,7 @@ Boutique pâtisserie + marketplace limpo. Menos flyer, mais cardápio premium co
 
 ## Refinamentos finais
 - Favicon SVG com ícone de bolo em `assets/favicon.svg` para substituir o ícone genérico da aba.
-- H1 reduzido em 4px no limite mínimo/máximo e com peso mais leve (`760`) para ficar mais elegante.
+- H1 usa `NY Small Pro`/`New York Small` com fallback serif e peso `600`, mantendo redução de 4px para ficar mais elegante.
 - Motion system: entrada suave por blocos, shimmer discreto em CTAs, hover tátil nos cards e badges com respiração leve.
 - Cursor customizado: fatia de bolo no estado normal e cupcake em elementos clicáveis, com fallback nativo.
 - Todas as animações respeitam `prefers-reduced-motion`.
